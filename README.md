@@ -33,6 +33,6 @@ Welcome to MR.Rock! This is a fun, interactive game where players can challenge 
 
 ## Demo 🚀
 
-Check out the live demo here: [Rock, Paper, Scissors Game](#) *(Add your GitHub Pages link here)*
+Check out the live demo here:https://evanlemuel23.github.io/Mr.Rock/
 
 
